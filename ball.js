@@ -3,7 +3,7 @@ class Ball {
         var options = {
             isStatic:false, 
             restitution: 1.2, 
-            friction:0.5, 
+            friction:0.4, 
             density: 1
         }
     this.radius = 32; 
